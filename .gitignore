@@ -1,0 +1,7 @@
+*.db
+*.swp
+.Python
+bin
+bootstrap.py
+include
+lib

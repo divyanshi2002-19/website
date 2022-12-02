@@ -1,0 +1,7 @@
+django==1.11.29
+south==0.7.3
+django-extensions==0.6
+django-mobility==0.1
+manifesto==0.3.3
+bencode==1.0
+wsgiref==0.1.2
